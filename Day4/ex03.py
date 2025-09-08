@@ -30,7 +30,7 @@ def get_json_response(url: str, api_key: str):
 
 if __name__ == '__main__':
     load_dotenv(
-        dotenv_path='/Users/dwoodbridge/Class/2025_MSDS692/Example/Example/.env')
+        dotenv_path='/Users/brandonminer/usf/data_aquisition/.env')
     data_gov_api_key = os.getenv("DATA_GOV_API_KEY")
     genai_api_key = os.getenv("GCP_GENAI_API_KEY")
     service_account_key = os.getenv("GCP_SERVICE_ACCOUNT_KEY")
