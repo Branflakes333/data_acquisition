@@ -1,0 +1,610 @@
+{
+    "company_dict": {
+        "Meta": "https://www.metacareers.com/jobs",
+        "Microsoft": "https://careers.microsoft.com/",
+        "Google": "https://www.google.com/about/careers/applications/jobs"
+    },
+    "job_title": "Engineer",
+    "results": [
+        {
+            "title": "Senior Software Engineer, Infrastructure, Google Cloud Security and ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/128615918744806086-senior-software-engineer-infrastructure-google-cloud-security-and-privacy?page=115",
+            "snippet": "Jul 18, 2025 ... Note: By applying to this position you will have an opportunity to share your preferred working location from the following: San Francisco, CA, USA; Sunnyvale,\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Search Jobs \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results?q=%22Google%20Cloud%22&utm_source=linkedin&utm_medium=linkedin_post&src=Online/LinkedIn/linkedin_page",
+            "snippet": "Jul 17, 2025 ... Customer Engineer II, Startups, Google Cloud. corporate_fareGoogleplace ... Google | San Francisco, CA, USA. Minimum qualifications. Bachelor's degree or\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Search Jobs \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results?q=%22field%20sales%22%20OR%20%22customer%20engineer%22%20OR%20%22enterprise%20account%20manager%22%20OR%20%22sales%20specialist%22%20OR%20%22sales%20manager%22&employment_type=FULL_TIME&target_level=ADVANCED&target_level=MID&location=United%20States&location=South%20Korea&location=Singapore&location=India&company=Google",
+            "snippet": "Aug 6, 2025 ... The remote filter will show you jobs that are eligible for remote work. Some ... San Francisco, CA, USA. Minimum qualifications. Bachelor's degree or\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Senior UX Engineer, Developer Transformation \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/141704075396686534-senior-ux-engineer-developer-transformation?q=engineer&page=6",
+            "snippet": "Aug 14, 2025 ... Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Seattle, WA, USA; San Francisco, CA\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Senior Software Engineer, Mobile iOS, Core \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/100260984622326470-senior-software-engineer-mobile-ios-core?q=engineer&page=11",
+            "snippet": "Aug 21, 2025 ... Note: By applying to this position you will have an opportunity to share your preferred working location from the following: San Francisco, CA, USA; New York,\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Senior Interaction Designer, Google Meet Intelligence \u2014 Google ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/116141643379155654-senior-interaction-designer-google-meet-intelligence?has_remote=true",
+            "snippet": "Aug 20, 2025 ... In-office locations: Kirkland, WA, USA; Seattle, WA, USA; San Francisco, CA, USA. Remote location(s): California, USA; Washington, USA. Minimum\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Staff Software Engineer, Pigweed \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/82788799964160710-staff-software-engineer-pigweed",
+            "snippet": "Aug 20, 2025 ... ... San Francisco, CA, USA; San Jose, CA, USA. Minimum qualifications ... Modules cover areas such as logging, remote procedure call (RPC), an interactive\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Customer Engineer II, Application Modernization, Google Cloud ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/106502969309962950-customer-engineer-ii-application-modernization-google-cloud?page=107",
+            "snippet": "Aug 13, 2025 ... Note: By applying to this position you will have an opportunity to share your preferred working location from the following: San Francisco, CA, USA; Sunnyvale,\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Customer Engineer II, AI/ML, Google Cloud \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/87410035792978630-customer-engineer-ii-aiml-google-cloud?q=engineer&page=35",
+            "snippet": "Aug 1, 2025 ... Back to jobs search. Customer Engineer II, AI/ML, Google Cloud. share. linkCopy link; emailEmail a friend. corporate_fareGoogleplaceSan Francisco, CA, USA.",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Hardware Quality and Operations Analytics Engineer, Data Centers ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/118079539065561798-hardware-quality-and-operations-analytics-engineer-data-centers?q=engineer&page=30",
+            "snippet": "Aug 15, 2025 ... Note: Google's hybrid workplace includes remote roles. Remote location: Mexico. Minimum qualifications: Bachelor's degree in Computer Science, Engineering,\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Hardware Quality and Operations Analytics Engineer, Data Centers ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/118079539065561798-hardware-quality-and-operations-analytics-engineer-data-centers?q=engineer&page=30",
+            "snippet": "Aug 15, 2025 ... Note: Google's hybrid workplace includes remote roles. Remote location: Mexico. Minimum qualifications: Bachelor's degree in Computer Science, Engineering,\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Field Sales Representative, Growth, Startups, Google Cloud ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/94898795262681798-field-sales-representative-growth-startups-google-cloud?page=129",
+            "snippet": "Aug 22, 2025 ... Note: By applying to this position you will have an opportunity to share your preferred working location from the following: San Francisco, CA, USA; Sunnyvale,\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Software Engineer III, Infrastructure, Google Cloud, Serverless ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/133352684362048198-software-engineer-iii-infrastructure-google-cloud-serverless-containers?_ga=1.72714839.538419452.1474313441&page=42",
+            "snippet": "2 days ago ... corporate_fareGoogleplaceSan Francisco, CA, USA. bar_chartMid. Mid. Experience ... Please do not forward resumes to our jobs alias, Google employees, or any other\u00a0...",
+            "date": "2025-09-01"
+        },
+        {
+            "title": "Jobs search \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/104139114873266886-head-of-strategic-design-global-sales-gotomarket?jid=131785001&page=8",
+            "snippet": "Jul 21, 2025 ... Software Engineer, Simulation Tools, Silicon. New Taipei, Banqiao District ... San Francisco, CA, USA; New York, NY, USA; +2 more; +1 more \u00b7 Senior Data\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Interaction Designer, Google Play Store \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/129934903201407686-interaction-designer-google-play-store?q=backend&location=United+States",
+            "snippet": "Jul 30, 2025 ... Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Atlanta, GA, USA; San Francisco, CA\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Search Jobs \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results?category=TECHNICAL_SOLUTIONS",
+            "snippet": "Jul 31, 2025 ... Manager, Technical Solutions, Android Business Communications \u00b7 Strategic Cloud Engineer, Application Modernization, Technical Delivery \u00b7 Partner Sales Engineer,\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Cyber Defense Detection Engineer, Mandiant, Google Cloud ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/138155607776469702-cyber-defense-detection-engineer-mandiant-google-cloud?page=115",
+            "snippet": "Aug 23, 2025 ... Note: Google's hybrid workplace includes remote roles. By applying to this position you will have an opportunity to share your preferred working location from\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Principal, Generative AI Safety Strategy \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/137500711163175622-principal-generative-ai-safety-strategy?fbclid=IwAR2YDcHnHllW6oglsfqb_SKr7UWr5OlNrNFW5LnjXW8lsyxRyeRv1UO9vqU&page=24",
+            "snippet": "Aug 17, 2025 ... Note: By applying to this position you will have an opportunity to share your preferred working location from the following: San Francisco, CA, USA; Sunnyvale,\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Technical Lead, Human Interfaces, XR \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/105603264929505990-technical-lead-human-interfaces-xr?page=80",
+            "snippet": "Jul 11, 2025 ... Note: By applying to this position you will have an opportunity to share your preferred working location from the following: San Francisco, CA, USA; San Jose,\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Senior UX Researcher, Google Hardware \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/101103598418436806-senior-ux-researcher-google-hardware?page=43",
+            "snippet": "Aug 8, 2025 ... Note: By applying to this position you will have an opportunity to share your preferred working location from the following: San Francisco, CA, USA; Mountain\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Field Solutions Architect, Generative AI Technologies, Google Cloud ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/107616087394132678-field-solutions-architect-generative-ai-technologies-google-cloud?hl=en&page=61",
+            "snippet": "Jul 31, 2025 ... ... San Francisco, CA, USA; Sunnyvale, CA, USA; Washington D.C., DC, USA ... Please do not forward resumes to our jobs alias, Google employees, or any other\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Data Center Services Manager, Special Projects \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/115492048902988486-data-center-services-manager-special-projects?page=80",
+            "snippet": "Aug 8, 2025 ... Note: Google's hybrid workplace includes remote and in-office roles. By applying to this position you will have an opportunity to share your preferred working\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Product Lead, Global Partnerships, Sell Side Monetization ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/88544812055044806-product-lead-global-partnerships-sell-side-monetization?page=11",
+            "snippet": "Aug 22, 2025 ... ... San Bruno, CA, USA; San Francisco, CA, USA. Minimum qualifications ... Please do not forward resumes to our jobs alias, Google employees, or any other\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Senior Staff Software Engineer, ASIC, Platforms Infrastructure ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/92813148406325958-senior-staff-software-engineer-asic-platforms-infrastructure-engineering?page=63",
+            "snippet": "Aug 25, 2025 ... San Francisco, CA, USA; California, USA | Remote eligible \u00b7 Technical Program ... Please do not forward resumes to our jobs alias, Google employees, or any other\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Staff Software Engineer, Site Reliability Engineering, Google Cloud ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/94378096244728518-staff-software-engineer-site-reliability-engineering-google-cloud?jid=/company/product-specialist-google-marketing-taipei-taiwan-4219350402&page=68",
+            "snippet": "Aug 13, 2025 ... Preferred qualifications: Master's degree in Computer Science or Engineering. About the job. Site Reliability Engineering (SRE) combines software and\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Software Engineer III, Google Cloud Security, Playbooks Infrastructure",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/104389950627029702-software-engineer-iii-google-cloud-security-playbooks-infrastructure?page=115",
+            "snippet": "Aug 5, 2025 ... Proficiency in C#, .NET Core, Python, or other programming languages. About the job. Google's software engineers develop the next-generation technologies that\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Software Engineer III, AI/ML GenAI, Google Research \u2014 Google ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/120920712545215174-software-engineer-iii-aiml-genai-google-research?page=123&utm_source=AnitaB.org+job+board&utm_medium=getro.com&gh_src=AnitaB.org+job+board",
+            "snippet": "1 day ago ... 2 years of experience with data structures or algorithms. Experience developing accessible technologies. About the job. Google's software engineers develop the\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Technical Program Manager III, Infrastructure Software Engineering ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/133801894186230470-technical-program-manager-iii-infrastructure-software-engineering-core?page=63",
+            "snippet": "Jul 19, 2025 ... Experience with analyzing data to understand trends, and drive process improvements. About the job. A problem isn't truly solved until it's solved for all.",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Mandiant Incident Response Practice Leader, Mandiant Consulting ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/84427099401528006-mandiant-incident-response-practice-leader-mandiant-consulting-english?page=101",
+            "snippet": "Aug 17, 2025 ... Note: Google's hybrid workplace includes remote roles. By applying to this position you will have an opportunity to share your preferred working location from\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "System Power Modeling Engineer \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/105618048743809734-system-power-modeling-engineer?page=36",
+            "snippet": "Jul 14, 2025 ... Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Mountain View, CA, USA; San Diego,\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Customer Learning Lead, Cloud Learning Services \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/131706241129816774-customer-learning-lead-cloud-learning-services?page=30",
+            "snippet": "Jul 29, 2025 ... Note: By applying to this position you will have an opportunity to share your preferred working location from the following: San Francisco, CA, USA; Sunnyvale,\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Senior Software Engineer, ML \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/92002599225434822-senior-software-engineer-android?q=engineer&page=43",
+            "snippet": "Jul 26, 2025 ... 2 years of commercial experience in Machine Learning or Artificial Intelligence. Experience programming in Python and Kotlin. Preferred qualifications: 5 years\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Senior Software Engineer, Android Enterprise \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/76992780252914374-senior-software-engineer-android-enterprise?q=engineer&page=30",
+            "snippet": "Aug 18, 2025 ... Minimum qualifications: \u00b7 Bachelor's degree or equivalent practical experience. \u00b7 5 years of experience with software development in one or more programming\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Senior Software Engineer, Site Reliability Engineering \u2014 Google ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/128730183128490694-senior-software-engineer-site-reliability-engineering?page=82",
+            "snippet": "Aug 1, 2025 ... Preferred qualifications: Master's degree in Computer Science or Engineering. About the job. Hope is not a strategy. Engineering solutions to\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Staff Software Engineer, Google Enterprise Networking \u2014 Google ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/80556737941119686-staff-software-engineer-google-enterprise-networking?page=107",
+            "snippet": "Aug 7, 2025 ... Experience working in the networking domain. Experience developing accessible technologies. About the job. Google's software engineers develop the next-\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Senior Intelligence Analyst \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/128664133779235526-senior-intelligence-analyst/",
+            "snippet": "Aug 11, 2025 ... Remote location(s): Saudi Arabia. Minimum qualifications: Bachelor's degree or equivalent practical experience. 7 years of experience in an investigative\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Staff Network Security Engineer, Google Enterprise Network ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/106389603648185030-staff-network-security-engineer-google-enterprise-network?q=security+engineer&location=United+States",
+            "snippet": "Aug 6, 2025 ... About the job. Google is proud to boast a network that provides service to millions of Internet users around the world. The Network Engineering team is\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Software Engineer III, AI/ML, Shopping Ads Targeting \u2014 Google ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/136914055137764038-software-engineer-iii-aiml-shopping-ads-targeting?page=107",
+            "snippet": "Aug 23, 2025 ... Experience with Natural Language Processing or Large Language Models. Experience developing accessible technologies. About the job. Google's software engineers\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Customer and Partner Solutions Engineer, AI, Google Cloud ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/137773100136571590-customer-and-partner-solutions-engineer-ai-google-cloud?page=101",
+            "snippet": "Aug 23, 2025 ... About the job. The Google Cloud Consulting Professional Services team guides customers through the moments that matter most in their cloud journey to help\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Strategy and Operations Senior Associate, Planning and ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/133104948769366726-strategy-and-operations-senior-associate-planning-and-intelligence?sort_by=date&page=46",
+            "snippet": "Aug 13, 2025 ... ... San Francisco, CA, USA; Boulder, CO, USA. Minimum qualifications: Bachelor's ... Please do not forward resumes to our jobs alias, Google employees, or any other\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Software Engineer III, Database Migration Service, Google Cloud ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/106218803536241350-software-engineer-iii-database-migration-service-google-cloud?page=45",
+            "snippet": "Aug 5, 2025 ... Experience with SQL Server administration and tuning. About the job. Google's software engineers develop the next-generation technologies that change how\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Revenue Lead, Media, Entertainment and Distribution \u2014 Google ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/106779256771486406-revenue-lead-media-entertainment-and-distribution?page=109",
+            "snippet": "Aug 23, 2025 ... ... San Francisco, CA, USA. Minimum qualifications: Bachelor's degree or equivalent practical experience. 4 years of experience in business development\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Senior Silicon DFT Lead, Google Cloud \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/77141478463152838-senior-silicon-dft-lead-google-cloud?page=115",
+            "snippet": "Aug 23, 2025 ... Minimum qualifications: Bachelor's degree in Electrical Engineering, Computer Engineering, or a related field, or equivalent practical experience.",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Software Engineering Manager, Google Cloud Global Networking ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/134819639031931590-software-engineering-manager-google-cloud-global-networking?page=95",
+            "snippet": "3 days ago ... About the job. Like Google's own ambitions, the work of a Software Engineer (SWE) goes way beyond just Search. SWE Managers have not only the technical\u00a0...",
+            "date": "2025-08-31"
+        },
+        {
+            "title": "Design Verification Engineer, Networking, Google Cloud \u2014 Google ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/124213753360065222-design-verification-engineer-networking-google-cloud",
+            "snippet": "Jul 9, 2025 ... Bachelor's degree in Electrical Engineering or equivalent practical experience. 4 years of experience working with design networking like Remote Direct Memory\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Senior Firmware Engineer, Modem System \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/103624824483390150-senior-firmware-engineer-modem-system?page=107",
+            "snippet": "Aug 23, 2025 ... Minimum qualifications: Bachelor's degree in Communications/Electrical Engineering/Computer Science, a related technical field, or equivalent practical\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Software Engineer III, Borg \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/122585217725539014-software-engineer-iii-borg?q=engineer&page=43",
+            "snippet": "Jul 29, 2025 ... Experience in coding with one of the following: C/C++, Python, Go, Java, or C#. Ability to learn new programming languages, with a focus on C++ and Go. About\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Senior Software Engineer, Google Beam \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/89966483005678278-senior-software-engineer-project-starline?page=7",
+            "snippet": "Jul 23, 2025 ... Powered by realistic state-of-the-art 3D imaging and spatial audio and integrated with today's leading remote video platforms, Google Beam enables you to be\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Senior Software Engineer, CPU Performance Modeling \u2014 Google ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/92045373878477510-senior-software-engineer-cpu-performance-modeling?/&page=13",
+            "snippet": "Aug 10, 2025 ... Ability to learn other coding languages. Excellent object-oriented, database design, and SQL skills. About the job. Be part of a team that pushes boundaries,\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Strategic Negotiator, Power Infrastructure, Planning and ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/101628094187479750-strategic-negotiator-power-infrastructure-planning-and-development?page=115",
+            "snippet": "Aug 20, 2025 ... Experience managing relationships and leading critical negotiations for infrastructure projects. Preferred qualifications: Master's degree in Engineering, or a\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "UX Engineer, Google Meet \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/134842130701918918-ux-engineer-google-meet?category=USER_EXPERIENCE&q=user+interface+designer&location=United+States",
+            "snippet": "Aug 12, 2025 ... Preferred qualifications: 5 years developing responsive, adaptive, and performant websites and applications. 5 years of experience as a front-end developer, UX\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Software Engineer III, Performance, Google Maps \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/125233391212602054-software-engineer-iii-performance-google-maps?q=engineer&page=30",
+            "snippet": "Aug 14, 2025 ... Minimum qualifications: \u00b7 Bachelor's degree or equivalent practical experience. \u00b7 2 years of experience with software development in Objective-C, Java, or Kotlin\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Database Sales Specialist, Google Cloud (English, Korean ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/116447558867264198-database-sales-specialist-google-cloud-english-korean?page=61",
+            "snippet": "Aug 23, 2025 ... Experience working in an overlay sales role. About the job. As a Database Sales Specialist, you will help us grow the operational database business by building\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Data Scientist, Product | Meta Careers",
+            "link": "https://www.metacareers.com/jobs/3987613201476114",
+            "snippet": "Jul 18, 2025 ... Requires a PhD degree(or foreign equivalent degree) in Computer Science, Engineering, Information Systems, Analytics, Mathematics, Physics, Applied Sciences, or\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Software Engineer, Pixel Security/Privacy \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/138870919547232966-software-engineer-pixel-securityprivacy?page=123",
+            "snippet": "Aug 23, 2025 ... 2 years of experience with software development in one or more programming languages (e.g., C, C++). Preferred qualifications: Master's degree in Engineering,\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Cloud Engineer, Application Modernization, Global Services ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/120488713997165254-cloud-engineer-application-modernization-global-services-delivery?page=92",
+            "snippet": "2 days ago ... Experience with unit or automated testing tools. About the job. The Google Cloud Consulting Professional Services team guides customers through the moments that\u00a0...",
+            "date": "2025-09-01"
+        },
+        {
+            "title": "Head of Marketing, Waze, Go-to-Market (GTM) \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/104544736684974790-head-of-marketing-waze-gotomarket-gtm?page=35",
+            "snippet": "Aug 25, 2025 ... This means you work with a cross-functional team across Sales, corporate communications, legal, webmasters, product development, engineering and more. In this\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Data Center Facilities Technician \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/97022136899510982-data-center-facilities-technician?page=107",
+            "snippet": "Aug 18, 2025 ... The Data Center team designs and operates some of the most sophisticated electrical engineering, mechanical engineering and HVAC systems in the world.",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Technical Program Manager, NatSec, Google Public Sector Services",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/97999681119756998-technical-program-manager-natsec-google-public-sector-services?page=119",
+            "snippet": "1 day ago ... New York, USA | Remote eligible \u00b7 Advertising Solutions ... New York, NY, USA; San Francisco, CA, USA \u00b7 Early Career Software Engineer, People with Disabilities.",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Web Solutions Engineering, Learning and Development Platforms ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/100551437422863046-web-solutions-engineering-learning-and-development-platforms?%29&page=20",
+            "snippet": "Aug 9, 2025 ... San Francisco, CA, USA; Atlanta, GA, USA; +6 more; +5 more. 381\u2011400 of 2622 ... Please do not forward resumes to our jobs alias, Google employees, or any other\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Software Engineer II, Enterprise Services, Android \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/124299345347388102-software-engineer-ii-enterprise-services-android?page=124",
+            "snippet": "Aug 15, 2025 ... Preferred qualifications: Experience programming in Kotlin. Experience with Android development. About the job. Google's software engineers develop the next-\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Software Engineer III, AI/ML GenAI, Google Cloud Business Platforms",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/124828458474709702-software-engineer-iii-aiml-genai-google-cloud-business-platforms?location=United+States",
+            "snippet": "Aug 25, 2025 ... 2 years of experience with data structures or algorithms. Experience developing accessible technologies. About the job. Google's software engineers develop the\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Technical Program Manager II, Privacy and Regulations, Google Ads",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/87183949519823558-technical-program-manager-ii-privacy-and-regulations-google-ads?company=Google&company=Google+Fiber&company=YouTube&degree=ASSOCIATE&degree=BACHELORS&employment_type=FULL_TIME&hl=en_US&jlo=en_US&q&sort_by=date&page=6",
+            "snippet": "Aug 16, 2025 ... Minimum qualifications: \u00b7 Preferred qualifications: \u00b7 About the job \u00b7 Responsibilities.",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Senior Software Engineer, Location and Context, Android \u2014 Google ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/130827545581888198-senior-software-engineer-location-and-context-android?q=engineer&page=24",
+            "snippet": "Jul 23, 2025 ... Knowledge of location and activity recognition technologies. About the job. Google's software engineers develop the next-generation technologies that change how\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Software Engineer II, Android System UI \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/123181186649334470-software-engineer-ii-android-system-ui?jid=213755001&page=29",
+            "snippet": "Aug 4, 2025 ... Minimum qualifications: \u00b7 Bachelor's degree or equivalent practical experience. \u00b7 1 year of experience with software development in one or more programming\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Program Manager III, Cross-Google Engineering, Core \u2014 Google ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/116894356798874310-program-manager-iii-crossgoogle-engineering-core?page=124",
+            "snippet": "Aug 25, 2025 ... To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Software Engineer III, Full Stack, Google Play \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/125516790334661318-software-engineer-iii-full-stack-google-play?q=backend&location=United%20States",
+            "snippet": "Aug 14, 2025 ... Minimum qualifications: \u00b7 Bachelor's degree or equivalent practical experience. \u00b7 2 years of experience with software development in one or more programming\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Manager, Manufacturing Test and Product Engineering \u2014 Google ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/115435555050660550-manager-manufacturing-test-and-product-engineering?jid=/company/global-program-manager-vendor-dublin-ireland-4231400102&page=52",
+            "snippet": "Aug 18, 2025 ... To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Lead Technical Program Manager, Public Sector \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/83014586394911430-lead-technical-program-manager-public-sector?jid=147475001&page=42",
+            "snippet": "Aug 21, 2025 ... Google's projects, like our users, span the globe and require managers to keep the big picture in focus while being able to dive into the unique engineering\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Senior Interaction Designer, Google Meet Intelligence - Google \u4eba\u6750 ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/116141643379155654-senior-interaction-designer-google-meet-intelligence?company=Google&company=YouTube&employment_type=FULL_TIME&hl=ja_JP&jlo&page=5&q&sort_by=relevance",
+            "snippet": "Aug 24, 2025 ... In-office locations: Kirkland, WA, USA; Seattle, WA, USA; San Francisco, CA, USA. Remote location(s): California, USA; Washington, USA. Minimum qualifications:.",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Software Engineer III, AI/ML GenAI \u2013 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/93461762824643270-software-engineer-iii-aiml-genai?hl=zh-MO&page=54",
+            "snippet": "Aug 8, 2025 ... Minimum qualifications: Bachelor's degree or equivalent practical experience. 2 years of experience with software development in one or more programming\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Director, Technical Program Management, Cloud AI \u2014 Google ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/94669029544731334-director-technical-program-management-cloud-ai?page=101",
+            "snippet": "Aug 17, 2025 ... Minimum qualifications: Bachelor's degree in Electrical or Computer Engineering, a related field or equivalent practical experience.",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Global Contracts Manager \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/88682238123614918-global-contracts-manager?f=true&page=41",
+            "snippet": "Aug 19, 2025 ... Minimum qualifications: \u00b7 Bachelor's degree in a legal, technical or engineering field or equivalent practical experience. \u00b7 5 years of experience in contract\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Technical Program Manager, Edge Planning, Global Network ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/127757126075327174-technical-program-manager-edge-planning-global-network-planning?page=27",
+            "snippet": "Aug 4, 2025 ... 2,661 jobs matched. Senior Staff UX Program Manager, Search UX. San Francisco, CA, USA; Mountain View, CA, USA; +2 more; +1 more \u00b7 Software Engineer III, Geo\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Technical Lead, New Product Introduction, Workflows \u2014 Google ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/115298204412453574-technical-lead-new-product-introduction-workflows?src=Online/TOPs/NA+Tech+University+Job+Board&page=40",
+            "snippet": "Jul 28, 2025 ... Preferred qualifications: Master's degree or PhD in Electrical Engineering, Computer Engineering, Physics, or a related field (e.g., Optics, Sensors, Audio/DSP)\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "UX Designer, Growth Systems, Search \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/89835638706053830-ux-designer-growth-systems-search?category=USER_EXPERIENCE&q=user+interface+designer&location=United+States",
+            "snippet": "Aug 20, 2025 ... ... San Francisco, CA, USA. Minimum qualifications: Bachelor's degree or equivalent practical experience. 4 years of interaction design experience in product\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Program Manager III, NPI Product Operations, Technical ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/117963632125321926-program-manager-iii-npi-product-operations-technical-infrastructure?src=Online/Job+Board/utm_campaign%3Dfreeaggr&page=14",
+            "snippet": "Aug 10, 2025 ... Preferred qualifications: Bachelor's degree in Science or Master's degree in Engineering, Supply Chain, Operations Engineering, Operations, or a similar field.",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Data Center Facilities Technician, Electrical/Generator \u2014 Google ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/72837599110013638-data-center-facilities-technician-electricalgenerator?page=123",
+            "snippet": "Aug 17, 2025 ... About the job. The Data Center team designs and operates some of the most sophisticated electrical engineering, mechanical engineering and HVAC systems in the\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Program Manager, Data Center Acquisitions and Development ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/121913602683609798-program-manager-data-center-acquisitions-and-development?page=66",
+            "snippet": "Aug 18, 2025 ... Bachelor's degree in Finance, Economics, Business, Real Estate, Engineering, or equivalent practical experience. 5 years of experience in program management.",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Team Lead, Machine Learning Frameworks, RDNA \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/135093674051543750-team-lead-machine-learning-frameworks-rdna?page=123",
+            "snippet": "Aug 17, 2025 ... Preferred qualifications: Master's degree or PhD in Engineering, Computer Science, or a related technical field. 8 years of experience with data structures/\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Research Scientist, Computational Photography, Generative AI ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/97937785272312518-research-scientist-computational-photography-generative-ai?page=76",
+            "snippet": "Aug 20, 2025 ... San Francisco, CA, USA \u00b7 Software Engineer III, Full stack, Google Chrome ... Please do not forward resumes to our jobs alias, Google employees, or any other\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Head of Global Partnerships, Media, Entertainment and Distribution ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/109465552656704198-head-of-global-partnerships-media-entertainment-and-distribution?company=Google&company=Google+Fiber&company=YouTube&degree=ASSOCIATE&degree=BACHELORS&employment_type=FULL_TIME&hl=en_US&jlo=en_US&q&sort_by=date&page=6",
+            "snippet": "Aug 14, 2025 ... Extensive expertise in Google Ad Manager, AdMob, AdSense, and other Google advertising and monetization platforms. About the job. Google's line of products and\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Technical Program Manager, NPI, AI/ML and Standard Compute ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/93058421103698630-technical-program-manager-npi-aiml-and-standard-compute-systems?jid=148405001&page=37",
+            "snippet": "Aug 23, 2025 ... Experience in hardware engineering, software engineering, computer hardware. Experience with launching Infrastructure as a Service Virtual Machine (IaaS VM),\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Pursuit Lead, Google Cloud Consulting \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/128093707629929158-pursuit-lead-google-cloud-consulting?_ga=1.252503809.988997618.1461303088&jid=215435001&page=51",
+            "snippet": "Jul 28, 2025 ... Preferred qualifications: Master's degree in a management, technical, or engineering field. Experience in value consulting, proposal development, and execution\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Account Strategist, Mid-Market Sales, Google Customer Solutions ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/76331228587795142-account-strategist-midmarket-sales-google-customer-solutions-english-japanese?page=45",
+            "snippet": "Aug 14, 2025 ... About the job. Businesses of all shapes and sizes rely on Google's unparalleled advertising solutions to help them grow in today's dynamic marketing environment\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Corporate Counsel, Technical Infrastructure \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/74703850446955206-corporate-counsel-technical-infrastructure?page=95",
+            "snippet": "Aug 24, 2025 ... Whether you're a patent attorney, an intellectual property expert or an engineer headed to law school, Google Legal lets you address unanswered legal quandaries\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Strategic Partner Development Principal Lead, International Pixel ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/87288952880276166-strategic-partner-development-principal-lead-international-pixel-products-japenese?page=5",
+            "snippet": "Aug 14, 2025 ... Communicate, collaborate and closely work with a broad range of constituents across the Pixel organization including Product, Engineering, Marketing, User\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Partner Technology Manager, Google Mobile Service Partnership ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/131078379993473734-partner-technology-manager-google-mobile-service-partnership?page=123",
+            "snippet": "Aug 23, 2025 ... Minimum qualifications: Bachelor's degree in Engineering, Computer Science, a related field, or equivalent practical experience.",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Data Center Technician, Deployment and Support, Public Sector ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/137034151013294790-data-center-technician-deployment-and-support-public-sector?page=110",
+            "snippet": "Aug 20, 2025 ... Experience collaborating and partnering with teams. Experience with networking protocols and performing component-level repairs on IT equipment. About the job.",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Administrative Business Partner, Large Customer Sales, (Fixed ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/86081291828503238-administrative-business-partner-large-customer-sales-fixedterm-contract?page=124",
+            "snippet": "Aug 18, 2025 ... Minimum qualifications: \u00b7 Preferred qualifications: \u00b7 About the job \u00b7 Responsibilities.",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Marketing Analyst, Google Workspace \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/121897437768884934-marketing-analyst-google-workspace?q=data+analyst&location=New+York,+NY,+USA",
+            "snippet": "Aug 13, 2025 ... STS Security Engineer, Consultant, Mandiant, Google Cloud. New York, USA | Remote ... San Francisco, CA, USA; Sunnyvale, CA, USA. Minimum qualifications\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Interaction Designer, Search Delight \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/118086446446715590-interaction-designer-search-delight?category=USER_EXPERIENCE&q=user%20interface%20designer&location=United%20States",
+            "snippet": "2 days ago ... Note: By applying to this position you will have an opportunity to share your preferred working location from the following: New York, NY, USA; San Francisco,\u00a0...",
+            "date": "2025-09-01"
+        },
+        {
+            "title": "Workspace Escalation Insights and Data Analytics Lead \u2014 Google ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/92831936740762310-workspace-escalation-insights-and-data-analytics-lead?page=5",
+            "snippet": "Aug 23, 2025 ... Experience with one or more of the following languages: SQL, R, Python, or C++. Excellent written and verbal communication skills. About the job. Trust & Safety\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Senior Product Manager, Ads Omni Channel Measurement ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/136889015746863814-senior-product-manager-ads-omni-channel-measurement?q=engineer&page=91",
+            "snippet": "Aug 1, 2025 ... San Francisco, CA, USA; California, USA | Remote eligible \u00b7 Cloud AI ... Please do not forward resumes to our jobs alias, Google employees, or any other\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "UX Writing and Content Design Manager, Geo \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/80244938079380166-ux-writing-and-content-design-manager-geo?%29&page=20",
+            "snippet": "Aug 18, 2025 ... Build alignment by collaborating with product managers, team members, and other cross-functional stakeholders (e.g., marketing, legal, engineering) to develop a\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Logistics Trade Compliance Program Manager \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/103754285803545286-logistics-trade-compliance-program-manager?hl&page=9",
+            "snippet": "Jul 20, 2025 ... Minimum qualifications: Bachelor's degree in Business, Logistics, Operations, Engineering, a related field, or equivalent practical experience.",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Consulting Account Lead IV, Google Cloud Consulting \u2014 Google ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/90471256553333446-consulting-account-lead-iv-google-cloud-consulting?hl=sw&page=14",
+            "snippet": "Jul 29, 2025 ... Knowledge of the Google Cloud ecosystem. About the job. As a Consulting Account Lead, you will serve as a trusted advisor to Google Cloud's largest customers by\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Strategic Partnerships Development Manager, Accelerated Partners ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/84170006954156742-strategic-partnerships-development-manager-accelerated-partners-solutions-sellside?page=11",
+            "snippet": "Aug 4, 2025 ... San Francisco, CA, USA; Atlanta, GA, USA; +8 more; +7 more \u00b7 Software Engineer ... Please do not forward resumes to our jobs alias, Google employees, or any other\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "Business Data Scientist, Subscriptions and Customer Growth ...",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/137255884337095366-business-data-scientist-subscriptions-and-customer-growth-english-spanish?q=engineer&page=69",
+            "snippet": "Aug 9, 2025 ... Minimum qualifications: Master's degree in Statistics, Engineering, Sciences, or equivalent practical experience. 3 years of experience using analytics to\u00a0...",
+            "date": "2025-09-03"
+        },
+        {
+            "title": "NPI Operations Manager, Program Management \u2014 Google Careers",
+            "link": "https://www.google.com/about/careers/applications/jobs/results/115648714545996486-npi-operations-manager-program-management?jid=/company/global-data-and-analytics-practice-lead-google-building-mp5-1160-n-mathilda-ave-3920120009&page=31",
+            "snippet": "Jul 22, 2025 ... Preferred qualifications: Master's degree or MBA in Industrial Engineering, Supply Chain Management, Business Administration, Operations Research, or other\u00a0...",
+            "date": "2025-09-03"
+        }
+    ]
+}
