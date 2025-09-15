@@ -36,21 +36,22 @@ class GcsStringUpload(BaseModel):
 @app.post("/search/jobs")
 def call_google_search(search_param: GoogleSearch):
     """
-    Refer to https://developers.google.com/custom-search/v1/reference/rest/v1/Search
+    Refer to:
+    https://developers.google.com/custom-search/v1/reference/rest/v1/Search
     parameters should be properly assigned including
     key, cx, query, and dateRestrict, etc.
-    If the search returns more than 100 matches, it should limit the matches 
+    If the search returns more than 100 matches, it should limit the matches
     to 100.
     """
     params = {
-        "key": api_key,
-        "cx": search_engine_id,
+        "key": search_param.api_key,
+        "cx": search_param.search_engine_id,
         "q": search_param,
-        "num": 10  # Number of search results to return (max 10)
+        "num": 100  # Number of search results to return (max 10)
     }
 
     raw_results = requests.get(
-        google_api_url, params=params).json().get("items", [])[:100]
+        search_param.url, params=params).json().get("items", [])[:100]
 
     data = {
         'company_dict': search_param.company_dictionary,
@@ -71,12 +72,11 @@ def save_to_gcs(gcs_upload_param: GcsStringUpload):
     # GCS Setup
     credentials = service_account.Credentials.from_service_account_file(
         service_account_file_path)
-    client = storage.Client(project=project_id,
+    client = storage.Client(project=gcs_upload_param.project_id,
                             credentials=credentials)
-    bucket = client.bucket(bucket_name)
+    bucket = client.bucket(gcs_upload_param.bucket_name)
     file = bucket.blob(gcs_upload_param.file_name)
-
-    # File save and confirmation return
-    file.upload_from_string(gcs_upload_param)
+    # Upload
+    file.upload_from_string(gcs_upload_param.data)
     return {"message": f"file {gcs_upload_param.file_name} has been uploaded\
             to {gcs_upload_param.bucket_name} successfully."}

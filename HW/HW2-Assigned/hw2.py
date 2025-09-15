@@ -43,12 +43,26 @@ def retrieve_data_from_gcs(service_account_key: str,
         service_account_key)
     client = storage.Client(project=project_id,
                             credentials=credentials)
-    blobs = client.list_blobs(bucket_name, prefix=file_name_prefix)
+    blobs = client.list_blobs(
+        bucket_name, prefix=file_name_prefix)
 
-    # Get dict of data
-    data = dict()
-    for blob in blobs:
-        data.update(blob.json)
+    content = [json.loads(blob.download_as_text()) for blob in blobs]
+    results = []
+    data = {
+        "company_dict": [item['company_dict'] for item in content],
+        "job_titles": [item['job_title'] for item in content],
+        "results": []
+    }
+
+    # results handling
+    results = []
+    for item in content:
+        results.extend(item['results'])
+    data['results'] = results
+
+    # Sorting
+    data['job_titles'].sort()
+
     return data
 
 
@@ -63,7 +77,7 @@ def reorder(f):
     return wrapper
 
 
-@reorder
+# @reorder
 def filter_by_company(data: pd.DataFrame, company_dictionary: dict)\
         -> pd.DataFrame:
     """
@@ -77,7 +91,7 @@ def filter_by_company(data: pd.DataFrame, company_dictionary: dict)\
     for company, link in company_dictionary.items():
         with st.sidebar:
             if st.checkbox(company, key=company, value=True):
-                selected.append(link)
+                selected.append(company)
 
     if not selected:
         return data.iloc[0:0]  # return empty
@@ -106,20 +120,20 @@ if __name__ == '__main__':
         st.title("Sidebar")
         st.write("Filter by Company")
 
-    # Base data
-    gcs_data = pd.DataFrame(retrieve_data_from_gcs(
+    gcs_contents = retrieve_data_from_gcs(
         service_account_key=service_account_file_path,
         project_id=project_id,
         bucket_name=bucket_name,
         file_name_prefix=file_name_prefix
-    ))
-
+    )
+    gcs_data = pd.DataFrame(gcs_contents['results'])
+    # gcs_data = gcs_data[['title', 'link']]
     st.dataframe(
         filter_by_company(gcs_data, company_dictionary),
         hide_index=True,
         column_config={
-            "date": st.column_config.DatetimeColumn("Date", width=60),
+            # "date": st.column_config.DatetimeColumn("Date", width=60),
             "title": st.column_config.TextColumn("Title", width="large"),
-            "link": st.column_config.LinkColumn("Link", width="medium"),
+            "link": st.column_config.LinkColumn("Link", width="medium")
         }
     )
