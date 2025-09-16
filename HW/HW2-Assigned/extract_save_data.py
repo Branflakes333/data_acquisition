@@ -46,7 +46,7 @@ def call_google_search(search_param: GoogleSearch):
     params = {
         "key": search_param.api_key,
         "cx": search_param.search_engine_id,
-        "q": search_param,
+        "q": f"{search_param.job_title} {' '.join(search_param.company_dictionary.keys())}",
         "num": 100  # Number of search results to return (max 10)
     }
 

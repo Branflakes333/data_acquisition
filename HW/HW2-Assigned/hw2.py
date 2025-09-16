@@ -127,13 +127,16 @@ if __name__ == '__main__':
         file_name_prefix=file_name_prefix
     )
     gcs_data = pd.DataFrame(gcs_contents['results'])
-    # gcs_data = gcs_data[['title', 'link']]
-    st.dataframe(
-        filter_by_company(gcs_data, company_dictionary),
-        hide_index=True,
-        column_config={
-            # "date": st.column_config.DatetimeColumn("Date", width=60),
-            "title": st.column_config.TextColumn("Title", width="large"),
-            "link": st.column_config.LinkColumn("Link", width="medium")
-        }
-    )
+    try:
+        gcs_data = gcs_data[['title', 'link']]
+        st.dataframe(
+            filter_by_company(gcs_data, company_dictionary),
+            hide_index=True,
+            column_config={
+                # "date": st.column_config.DatetimeColumn("Date", width=60),
+                "title": st.column_config.TextColumn("Title", width="large"),
+                "link": st.column_config.LinkColumn("Link", width="medium")
+            }
+        )
+    except:
+        st.text(gcs_contents)
