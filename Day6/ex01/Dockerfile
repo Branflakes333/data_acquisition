@@ -1,8 +1,8 @@
 # Use continuumio/miniconda3 as a base image 
 FROM continuumio/miniconda3
 
-# Set /Day6 as a working directory
-WORKDIR /Day6
+# Set /ex01 as a working directory, creating if needed
+WORKDIR /ex01
 
 # Copy environment.yml
 COPY * .

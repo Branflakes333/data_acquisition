@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# Final Project
+final_project/
+group-assignment-1-data-collection-and-automation-team-fog/
