@@ -17,6 +17,4 @@ RUN conda install -n ex01  fastapi[standard]
 EXPOSE 8000
 
 # run the ex01.py as fastapi server.
-#CMD ["conda", "run", "--no-capture-output", "-n", "ex01", "fastapi", "dev", "ex01.py", "--port=8000", "--host=0.0.0.0"]
-#CMD ["conda", "run", "--no-capture-output", "-n", "ex01", "fastapi", "dev", "ex01.py"]
 CMD ["conda", "run", "--no-capture-output", "-n", "ex01", "fastapi", "dev", "ex01.py", "--port=8000", "--host=0.0.0.0"]
