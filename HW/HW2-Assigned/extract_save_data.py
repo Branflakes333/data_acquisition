@@ -43,11 +43,15 @@ def call_google_search(search_param: GoogleSearch):
     If the search returns more than 100 matches, it should limit the matches
     to 100.
     """
+    company_string = " OR site:".join(search_param.company_dictionary.values())
+    query = f"{search_param.job_title} jobs on site:{company_string}"
     params = {
         "key": search_param.api_key,
         "cx": search_param.search_engine_id,
-        "q": f"{search_param.job_title} {' '.join(search_param.company_dictionary.keys())}",
-        "num": 100  # Number of search results to return (max 10)
+        "q": query,
+        "num": 10,  # Number of search results to return (max 10)
+        "start": 1,
+        "dateRestrict": 'y1'
     }
 
     raw_results = requests.get(
