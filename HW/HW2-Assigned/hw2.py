@@ -1,3 +1,4 @@
+from datetime import date
 import requests
 import json
 import io
@@ -46,6 +47,7 @@ def retrieve_data_from_gcs(service_account_key: str,
     blobs = client.list_blobs(
         bucket_name, prefix=file_name_prefix)
 
+    # Getting main data
     content = [json.loads(blob.download_as_text()) for blob in blobs]
     results = []
     data = {
@@ -58,9 +60,9 @@ def retrieve_data_from_gcs(service_account_key: str,
     results = []
     for item in content:
         results.extend(item['results'])
-    data['results'] = results
 
-    # Sorting
+    # Adding results and Sorting
+    data['results'] = results
     data['job_titles'].sort()
 
     return data
@@ -127,16 +129,14 @@ if __name__ == '__main__':
         file_name_prefix=file_name_prefix
     )
     gcs_data = pd.DataFrame(gcs_contents['results'])
-    try:
-        gcs_data = gcs_data[['title', 'link']]
-        st.dataframe(
-            filter_by_company(gcs_data, company_dictionary),
-            hide_index=True,
-            column_config={
-                # "date": st.column_config.DatetimeColumn("Date", width=60),
-                "title": st.column_config.TextColumn("Title", width="large"),
-                "link": st.column_config.LinkColumn("Link", width="medium")
-            }
-        )
-    except:
-        st.text(gcs_contents)
+    gcs_data['date'] = date.today()
+    gcs_data = gcs_data[['date', 'title', 'link']]
+    st.dataframe(
+        filter_by_company(gcs_data, company_dictionary),
+        hide_index=True,
+        column_config={
+            "date": st.column_config.DatetimeColumn("Date", width=60),
+            "title": st.column_config.TextColumn("Title", width="large"),
+            "link": st.column_config.LinkColumn("Link", width="medium")
+        }
+    )
