@@ -1,0 +1,4 @@
+0 0 * * * curl -X POST -H "Content-Type: application/json” -d '{"no_days": 5, 
+"job_title": "Data Scientist", "company_dict": {"Meta": "https://www.metacareers.com/jobs", 
+"Microsoft": "https://careers.microsoft.com/", "Google": "https://www.google.com/about/
+careers/applications/jobs"}}' $API_SERVER/search_and_save/jobs

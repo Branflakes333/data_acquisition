@@ -1,0 +1,16 @@
+# Use continuumio/miniconda3 as a base image 
+FROM continuumio/miniconda3
+
+# Set /HW3-Assigned as a working directory, creating if needed
+WORKDIR /HW3-Assigned
+
+# Copy environment.yml
+COPY * .
+
+# create an environment using environment.yml
+RUN conda env create -f environment.yml -n hw3
+
+# expose port 8502
+EXPOSE 8502
+
+CMD ["conda", "run", "--no-capture-output", "-n", "hw3", "streamlit", "run", "main.py", "--server.address", "0.0.0.0"]
