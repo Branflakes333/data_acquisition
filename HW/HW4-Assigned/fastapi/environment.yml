@@ -1,0 +1,20 @@
+name: msds692_hw
+channels:
+  - defaults
+dependencies:
+  - python=3.13.5
+  - python_abi=3.13
+  - pip:
+      - beautifulsoup4
+      - dotenv==0.9.9
+      - fastapi==0.116.1
+      - fastapi-cli==0.0.10
+      - fastapi-cloud-cli==0.1.5
+      - fastapi[standard]
+      - google-auth==2.40.3
+      - google-cloud-core==2.4.3
+      - google-cloud-storage==3.3.1
+      - google-genai==1.32.0
+      - pytest-timeout==2.4.0
+      - requests==2.32.5
+prefix: /opt/homebrew/anaconda3/envs/msds692_hw

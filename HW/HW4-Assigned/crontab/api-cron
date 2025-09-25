@@ -1,0 +1,2 @@
+API_SERVER=https://dwoodbridg-hw3-fastapi-ifqlgh3v7q-ew.a.run.app
+* * * * * curl -X POST -H "Content-Type: application/json" -d '{"no_days": 5, "job_title":"engineer", "company_dict":{"Meta":"//www.metacareers.com/jobs", "Google":"https://www.google.com/about/careers/applications/jobs"}}' $API_SERVER:8000/search_and_save/jobs >> /var/log/cron.log 2>&1
